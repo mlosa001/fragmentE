@@ -1,0 +1,4 @@
+#Sun Jan 27 17:48:46 EST 2019
+base.0=/Users/marysollosada/Desktop/AndroidExamples/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
